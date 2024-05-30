@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "665582aeb82b746fb66f11e3"
+  },
+  "name": "campagin 1  ",
+  "template": "66518735a7929073c4c17c67",
+  "start": {
+    "$date": "2022-05-30T08:30:00.000Z"
+  },
+  "recipients": [
+    "66518735a7929073c4c17c67",
+    "66518735a7929073c4c17c68"
+  ],
+  "interval": 5000,
+  "resource": "66518735a7929073c4c17c67",
+  "types": {
+    "Email": true,
+    "Whatsapp": true,
+    "Telegram": true,
+    "Sms": false
+    
+  },
+  "createdBy": "66518735a7929073c4c17c67",
+  "createdAt": {
+    "$date": "2024-05-28T07:07:26.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-28T07:07:26.362Z"
+  },
+  "__v": 0
+}]
